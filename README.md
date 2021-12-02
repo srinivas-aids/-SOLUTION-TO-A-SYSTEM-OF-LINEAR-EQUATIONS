@@ -24,7 +24,8 @@ End the program
 import numpy as np
 
 
-A=np.array([[1,-3],[3,1]])
+A=np.array([[1,-3],[3,1]]
+)
 
 B=np.array([0,10])
 
@@ -34,7 +35,7 @@ le=np.linalg.solve(A,B)
 print(le)
 
 ## Output:
-![output]()
+![output](https://github.com/srinivas-aids/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/blob/main/solving%20the%20linear%20equation.png?raw=true)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
